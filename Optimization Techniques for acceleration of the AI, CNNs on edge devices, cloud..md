@@ -12,7 +12,7 @@ The various possible ways to accelerate and optimize the inference of neural net
     
 - Streaming or Processing Engines
     
-- ​ ![Fig: Overview of approaches found in literature](ml_opt_appr.png)
+- ​ ![Fig: Overview of approaches found in literature](ml_opt_appr.png) Apporaches for Optimization.
   
 
 ## 1. Smaller Networks
