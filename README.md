@@ -4,4 +4,4 @@ The report is from 2019. FYP was for the degree of Bachelors of Engineering in C
 Group Members included: Ahmed Abdul Karim, Ali Ahmad Qureshi, Muhammad Zeeshan, Syed Muhammad Saqib.
 The supervisor were: Dr Sajid Gul Khawaja, Lec Amir Javed, Dr Usman Akram.
 
-Read the literature review excerpt → [Optimization Techniques](Optimization Techniques for acceleration of the AI, CNNs on edge devices, cloud..md)
+Read the literature review excerpt → [Optimization Techniques](Optimization Techniques.md)
