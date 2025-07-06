@@ -3,3 +3,5 @@ The accompanying file is an excerpt from the project report of the final year pr
 The report is from 2019. FYP was for the degree of Bachelors of Engineering in Computer Engineering from College of Electrical and Mechanical Engineering (CEME), National University of Sciences and Technology (NUST), Islamabad, Pakistan. The group received a gold medal for the being the best project.
 Group Members included: Ahmed Abdul Karim, Ali Ahmad Qureshi, Muhammad Zeeshan, Syed Muhammad Saqib.
 The supervisor were: Dr Sajid Gul Khawaja, Lec Amir Javed, Dr Usman Akram.
+
+Read the literature review excerpt → [Optimization Techniques](Optimization Techniques for acceleration of the AI, CNNs on edge devices, cloud..md)
